@@ -14,7 +14,7 @@ An AI-powered civic platform that empowers everyday citizens to **report, verify
 
 ## 🌟 Live Demo
 
-🔗 **[Deployed on Google AI Studio →](YOUR_DEPLOYED_LINK_HERE)**
+🔗 **[Live Demo Hosted on GitHub Pages →](https://Achalnawal2745.github.io/ai-powered-civic-platform/)**
 
 ---
 
@@ -65,7 +65,7 @@ Before submitting, citizens can ask Gemini for:
 | Frontend | Vanilla HTML5, CSS3, JavaScript (ES6+) |
 | AI Engine | **Google AI Studio — Gemini 2.5 Flash** |
 | Vision AI | Gemini multimodal (image + text) |
-| Deployment | Google AI Studio |
+| Deployment | GitHub Pages |
 | Fonts | Google Fonts (Space Grotesk + Inter) |
 | Storage | Browser localStorage (API key only) |
 
@@ -174,13 +174,14 @@ POST https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:ge
 
 ## 📸 Screenshots
 
-> *(Add screenshots of each page after deployment)*
-
 - Feed Page — issue cards with category filters
+![alt text](image.png)
 - Report Page — AI image upload and auto-fill
+![alt text](image-1.png)
 - Dashboard — charts, map, AI insights
+![alt text](image-2.png)
 - Leaderboard — XP rankings and badges
-
+![alt text](image-3.png)
 ---
 
 ## 🔮 Future Roadmap
